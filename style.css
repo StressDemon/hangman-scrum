@@ -15,7 +15,8 @@ body {
 #progress {
   height: 100%;
   width: 0%;
-  background: green;
+  background: rgb(17, 169, 17);
+  border-radius: 25px;
 }
 #hangman-image {
   width: 200px;
